@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But NOT these:
+!.gitignore
+!src/
+!src/**
+
+# Optional: keep README if you add it later
+!README.md
